@@ -36,3 +36,8 @@ This is a perfect choice for integrating the CodeMirror text editor in Vue 3. co
 ---
 
 More information can be found on the [Renkin 的扯淡日记](https://renkin.cn/)
+
+---
+
+目前在招工作，也接兼职或项目合作~
+Currently recruiting for work, also taking on part-time jobs or project collaborations.
